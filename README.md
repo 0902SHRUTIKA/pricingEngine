@@ -1,8 +1,8 @@
-& Dynamic Pricing Engine
+Pricing Engine
 
 This Python script reads product and sales data from two CSV files, applies pricing rules based on stock and demand, and generates an updated price list.
 
-## 📁 Files Used
+* Files Used
 
 - `products.csv` – Contains product details like `sku`, `name`, `current_price`, `cost_price`, and `stock`.
 - `sales.csv` – Contains sales info with `sku` and `quantity_sold`.
